@@ -91,7 +91,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - ### Linear Algebra
 
 - [ ] Adequate Linear Algebra Knowledge
-    - [ ] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+    - [ ] -> [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [MIT - Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
@@ -118,14 +118,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - [ ] Adequate Machine Learning Knowledge
     - [ ] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
-    - [ ] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+    - [ ] -> [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [ ] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 - ### Neural Networks
 
 - [ ] Adequate Neural Networks Knowledge
     - [ ] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
-    - [ ] [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+    - [ ] -> [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
     - [ ] [nvidia - Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
     - [ ] [Nature of Code Book (Chapter 10)](http://natureofcode.com/book/)
     - [ ] [MIT Press - Deep Learning Book (free online)](http://www.deeplearningbook.org/)
